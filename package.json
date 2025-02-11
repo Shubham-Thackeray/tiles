@@ -1,0 +1,12 @@
+{
+  "name": "firebase-tiles-widget",
+  "version": "1.0.0",
+  "description": "Tiles Widget using Firebase",
+  "dependencies": {
+    "firebase": "^10.0.0"
+  },
+  "scripts": {
+    "start": "firebase emulators:start",
+    "deploy": "firebase deploy"
+  }
+}
